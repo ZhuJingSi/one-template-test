@@ -1,0 +1,19 @@
+{
+  "name": "{{projectName}}",
+  "version": "1.0.0",
+  "description": "op-mc: {{projectDescription}}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhuJingSi/one-template-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhuJingSi/one-template-test/issues"
+  },
+  "homepage": "https://github.com/ZhuJingSi/one-template-test#readme"
+}

@@ -1,0 +1,12 @@
+{
+  "group": [{
+    "standard": {
+      "path": "./standard",
+      "description": "标准模版"
+    },
+    "sycm": {
+      "path": "./sycm",
+      "description": "生意参谋"
+    }
+  }]
+}
